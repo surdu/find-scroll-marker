@@ -44,6 +44,5 @@
 		}
 	},
 	"dependencies": {
-		"etch": "0.9.3"
 	}
 }
