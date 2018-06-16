@@ -44,5 +44,9 @@
 		}
 	},
 	"dependencies": {
-	}
+		"atom-package-deps": "^4.6.2"
+	},
+	"package-deps": [
+    "scroll-marker"
+  ]
 }
