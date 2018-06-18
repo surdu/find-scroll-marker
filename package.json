@@ -2,8 +2,9 @@
 	"name": "find-scroll-marker",
 	"main": "./lib/find-scroll-marker",
 	"version": "0.0.0",
-	"description": "Marks find & replace results on the scroll bar",
+	"description": "Marks 'find & replace' results on the scroll bar",
 	"keywords": [
+		"find", "replace", "scroll bar"
 	],
 	"repository": "https://github.com/surdu/find-scroll-marker",
 	"license": "MIT",
