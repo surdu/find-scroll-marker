@@ -1,11 +1,11 @@
 {
-	"name": "scroll-marker-find",
-	"main": "./lib/scroll-marker-find",
-	"version": "0.1.0",
-	"description": "A short description of your package",
+	"name": "find-scroll-marker",
+	"main": "./lib/find-scroll-marker",
+	"version": "0.0.0",
+	"description": "Marks find & replace results on the scroll bar",
 	"keywords": [
 	],
-	"repository": "https://github.com/surdu/scroll-marker-find",
+	"repository": "https://github.com/surdu/find-scroll-marker",
 	"license": "MIT",
 	"engines": {
 		"atom": ">=1.0.0 <2.0.0"
@@ -47,6 +47,6 @@
 		"atom-package-deps": "^4.6.2"
 	},
 	"package-deps": [
-    "scroll-marker"
-  ]
+		"scroll-marker"
+	]
 }
