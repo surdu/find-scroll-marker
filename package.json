@@ -1,7 +1,7 @@
 {
   "name": "find-scroll-marker",
   "main": "./lib/find-scroll-marker",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Highlights search results on the scroll bar",
   "keywords": [
     "find",
